@@ -1,0 +1,117 @@
+# Superstore Sales Performance Dashboard
+
+## Project Overview
+This project focuses on analyzing sales performance data from a Superstore dataset using Microsoft Power BI. The dashboard was developed to uncover key business insights related to sales, profit, customer performance, and regional trends through interactive visualizations and data storytelling.
+
+The goal of this project is to help stakeholders make informed business decisions by transforming raw sales data into meaningful and actionable insights.
+
+---
+
+## Objectives
+- Analyze overall sales and profit performance
+- Identify top-performing customers and regions
+- Discover profitable product sub-categories
+- Monitor monthly sales trends
+- Create an interactive and visually appealing dashboard
+
+---
+
+## Tools & Technologies Used
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Excel/CSV Dataset
+
+---
+
+## Dataset Information
+Dataset Used: Superstore Sales Dataset
+
+The dataset contains:
+- Sales transactions
+- Product categories and sub-categories
+- Customer information
+- Regional sales data
+- Order dates
+- Profit and quantity metrics
+
+---
+
+## Data Cleaning & Transformation
+The following preprocessing steps were carried out:
+- Checked for missing values
+- Corrected data types
+- Removed inconsistencies
+- Created calculated measures using DAX
+- Formatted fields for analysis
+- Built interactive filters and slicers
+
+---
+
+## KPIs Created
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+
+---
+
+## Dashboard Features
+### Interactive Features
+- Region filtering
+- Date slicers
+- Category filtering
+- Cross-visual interaction
+
+### Visualizations Included
+- Monthly Sales Trend
+- Top Customers by Sales
+- Sales by State
+- Profit by Sub-Category
+- Sales by Category
+- Profit by Region
+- KPI Cards
+
+---
+
+## Key Insights
+- Technology category generated the highest sales contribution.
+- California recorded the highest sales across states.
+- The East region achieved the highest profit performance.
+- November recorded the highest monthly sales.
+- Copiers generated the highest profit among sub-categories.
+
+---
+
+## Recommendations
+- Increase investment in high-performing technology products.
+- Improve strategies in lower-performing regions.
+- Monitor seasonal sales trends closely.
+- Maintain inventory availability for profitable products.
+
+---
+
+## Challenges Faced
+- Cleaning inconsistent data fields
+- Choosing the most effective visualizations
+- Designing a clean and balanced dashboard layout
+- Creating meaningful business insights from raw data
+
+---
+
+## Conclusion
+This project demonstrates how Power BI can be used to transform raw business data into interactive dashboards and actionable insights. The dashboard supports data-driven decision-making by presenting sales and profitability trends in a clear and professional format.
+
+---
+
+## Author
+Precious Mmesoma Samuel
+
+Data Analyst | Power BI Enthusiast | Data Storytelling Learner
+
+---
+
+## Project Files
+- Power BI Dashboard (.pbix)
+- Dashboard Screenshots
+- Presentation Slides
